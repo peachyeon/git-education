@@ -1,2 +1,2 @@
 # git-education
-git 수업 자료 
+오늘은 수업 합니다 
